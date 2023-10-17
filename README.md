@@ -31,5 +31,4 @@ The scripts I wrote for this project were used for the following:
   <li>
     automate the creation of shoreline transects to be used for the detection of shoreline positions
   </li>
-  ![Screenshot from 2023-10-17 16-55-04](https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/ba5c0a69-d5c6-4c43-b949-21e4e4947104)
 </ul>
