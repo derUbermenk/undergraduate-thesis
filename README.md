@@ -29,6 +29,11 @@ The following tools were essential for the completion of this project:
 The scripts I wrote for this project were used for the following:
 <ul>
   <li>
-    automate the creation of shoreline transects to be used for the detection of shoreline positions
+      <p>
+    automate the creation of shoreline transects to be used for the detection of shoreline positions  
+    </p>
+    <p>
+      ![image](https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/9e34131c-a8b4-488c-88d1-0ecf23621eca)
+    </p>
   </li>
 </ul>
