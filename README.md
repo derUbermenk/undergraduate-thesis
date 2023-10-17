@@ -37,6 +37,6 @@ The scripts I wrote for this project were used for the following:
     </p>
   </li>
   <li>
-    <img src="https://unsplash.com/photos/a-beach-that-has-some-rocks-in-the-water-_IQ9H6lxlko)https://unsplash.com/photos/a-beach-that-has-some-rocks-in-the-water-_IQ9H6lxlko" alt="Image of a cat">
+    <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/9e34131c-a8b4-488c-88d1-0ecf23621eca" alt="Image of a cat">
   </li>
 </ul>
