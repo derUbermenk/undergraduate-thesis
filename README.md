@@ -33,7 +33,7 @@ The scripts written for this project were used to:
       Automate the creation of shoreline transects to be used for the detection of shoreline positions  
     </p>
     <p>
-      <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/a1f1bb7b-b9bc-4e7e-b3f9-61b1a906b894" alt="Generated Transects" style="width: 75%; height: 75%;">
+      <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/a1f1bb7b-b9bc-4e7e-b3f9-61b1a906b894" alt="Generated Transects" style="width: 60%; height: 60%;">
     </p>
   </li>
   <li>
@@ -41,7 +41,7 @@ The scripts written for this project were used to:
       Convert data into workable formats
     </p>
     <p>
-      <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/b38fd45d-8c5e-4d1f-a98d-6a1d9c5c2d86" alt="Generated Transects" style="width: 75%; height: 75%;">
+      <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/b38fd45d-8c5e-4d1f-a98d-6a1d9c5c2d86" alt="workable formats" style="width: 60%; height: 60%;">
     </p>
   </li>
   <li>
@@ -49,7 +49,7 @@ The scripts written for this project were used to:
       Smoothen detected shoreline traces
     </p>
     <p>
-       <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/39c774c0-a2f7-472e-8a6a-900e46f75685" alt="Generated Transects" style="width: 75%; height: 75%;">
+       <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/39c774c0-a2f7-472e-8a6a-900e46f75685" alt="smooth shorelines" style="width: 60%; height: 60%;">
     </p>
   </li>
   <li>
@@ -57,7 +57,7 @@ The scripts written for this project were used to:
       Visualize results
     </p>
     <p>
-      <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/837ebdca-4bc4-42f0-a9e5-ab7d6fb1055e" alt="Generated Transects" style="width: 75%; height: 75%;">
+      <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/837ebdca-4bc4-42f0-a9e5-ab7d6fb1055e" alt="visualized results" style="width: 60%; height: 60%;">
     </p>
   </li>
 </ul>
