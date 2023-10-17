@@ -1,4 +1,4 @@
-# undergraduate-thesis
+# Undergraduate Thesis
 <p>
   This repository contains all scripts written for my undergraduate thesis, "Shoreline Change Analysis of Cagliliog, 
   Tinambac, Camarines Sur, Philippines  Using CoastSat, QGIS, and CoastCR," conducted with 
