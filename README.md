@@ -2,7 +2,7 @@
 <p>
   This repository contains all scripts written for my team's undergraduate thesis, "Shoreline Change Analysis of Cagliliog, 
   Tinambac, Camarines Sur, Philippines  Using CoastSat, QGIS, and CoastCR," conducted with 
-  Bruzo R. and Casasis G.. Our goal was to conduct shoreline change analysis using a fully open-source workflow by ensuring data 
+  Bruzo R. and Casasis G.. Our goal was to do shoreline change analysis using a fully open-source workflow by ensuring data 
   interoperability between the different tools we used.
 </p>
 
