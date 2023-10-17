@@ -37,6 +37,6 @@ The scripts I wrote for this project were used for the following:
     </p>
   </li>
   <li>
-    ![cheese](https://unsplash.com/photos/a-beach-that-has-some-rocks-in-the-water-_IQ9H6lxlko)
+    ![CHEESE!](https://unsplash.com/photos/a-beach-that-has-some-rocks-in-the-water-_IQ9H6lxlko)
   </li>
 </ul>
