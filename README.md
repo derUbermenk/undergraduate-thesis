@@ -16,7 +16,7 @@ The following tools were essential for the completion of this project:
     <a href="https://www.qgis.org/en/site/">QGIS</a> for data visualization
   </li>
   <li>
-    <a href="https://qgis.org/pyqgis/master/">pyqgis</a> for creating and manipulating QGIS geometries and features
+    <a href="https://qgis.org/pyqgis/master/">PyQGIS</a> for creating and manipulating QGIS geometries and features
   </li>
   <li>
     <a href="https://github.com/kvos/CoastSat">CoastSat</a> for automating shoreline and shoreline transect intersection detection
