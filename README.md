@@ -38,7 +38,7 @@ The scripts written for this project were used to:
   </li>
   <li>
     <p>
-      Convert data into workable formats
+      Transform data into workable formats
     </p>
     <p>
       <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/b38fd45d-8c5e-4d1f-a98d-6a1d9c5c2d86" alt="workable formats" style="width: 60%; height: 60%;">
