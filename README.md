@@ -16,17 +16,17 @@ The following tools were essential for the completion of this project:
     <a href="https://www.qgis.org/en/site/">QGIS</a> for data visualization
   </li>
   <li>
-    <a href="https://qgis.org/pyqgis/master/" target="_blank">PyQGIS</a> for creating and manipulating QGIS geometries and features
+    <a href="https://qgis.org/pyqgis/master/">PyQGIS</a> for creating and manipulating QGIS geometries and features
   </li>
   <li>
-    <a href="https://github.com/kvos/CoastSat" target="_blank">CoastSat</a> for automating shoreline and shoreline transect intersection detection
+    <a href="https://github.com/kvos/CoastSat">CoastSat</a> for automating shoreline and shoreline transect intersection detection
   </li>
   <li>
-    <a href="https://github.com/alejandro-gomez/CoastCR" target="_blank">CoastCR</a> for calculating shoreline change statistics
+    <a href="https://github.com/alejandro-gomez/CoastCR">CoastCR</a> for calculating shoreline change statistics
   </li>
 </ul>
 
-The scripts - located in folders <a href="https://github.com/derUbermenk/undergraduate-thesis/tree/master/pyshores" target="_blank">pyshores</a> and  <a href="https://github.com/derUbermenk/undergraduate-thesis/tree/master/CoastSat_Data" target="_blank">CoastSat_Data</a> - written for this project were used to:
+The scripts - located in folders <a href="https://github.com/derUbermenk/undergraduate-thesis/tree/master/pyshores">pyshores</a> and  <a href="https://github.com/derUbermenk/undergraduate-thesis/tree/master/CoastSat_Data" target="_blank">CoastSat_Data</a> - written for this project were used to:
 <ul>
   <li>
     <p>
