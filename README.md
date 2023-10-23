@@ -26,7 +26,7 @@ The following tools were essential for the completion of this project:
   </li>
 </ul>
 
-The scripts written for this project were used to:
+The scripts - located in folders pyshores and CoastSat_Data - written for this project were used to:
 <ul>
   <li>
     <p>
