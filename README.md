@@ -71,3 +71,7 @@ Gómez-Pazo, A., Payo, A., Paz-Delgado, M.V., Delgadillo-Calzadilla, M.A. (2022)
 <p>
 Vos K., Splinter K.D., Harley M.D., Simmons J.A., Turner I.L. (2019). CoastSat: a Google Earth Engine-enabled Python toolkit to extract shorelines from publicly available satellite imagery. Environmental Modelling and Software. 122, 104528. https://doi.org/10.1016/j.envsoft.2019.104528 (Open Access)
 </p>
+
+<p>
+  Jackson, C. W., Alexander, C. R., & Bush, D. M. (2012). Application of the AMBUR R package for spatio-temporal analysis of shoreline change: Jekyll Island, Georgia, USA. Computers & Geosciences, 41, 199-207. https://doi.org/10.1016/j.cageo.2011.08.009
+</p>
