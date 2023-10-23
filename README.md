@@ -30,7 +30,7 @@ The scripts - located in folders <a href="https://github.com/derUbermenk/undergr
 <ul>
   <li>
     <p>
-      Automate the creation of shoreline transects to be used for the detection of shoreline positions  
+      Automate the creation of shoreline transects to be used for the detection of shoreline positions (based from an algorithm described by Jackson et. al. 2012)  
     </p>
     <p>
       <img src="https://github.com/derUbermenk/undergraduate-thesis/assets/72653808/a1f1bb7b-b9bc-4e7e-b3f9-61b1a906b894" alt="Generated Transects" style="width: 60%; height: 60%;">
